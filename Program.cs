@@ -1,0 +1,12 @@
+﻿using System;
+using AtividadeComSwitchCase;
+//DiaDaSemana.Main(args);
+//OperacaoAritmetica.Main(args);
+//ClassificacaoIdade.Main(args);
+//Menu.Main(args);
+//NotaAluno.Main(args);
+//Cafeteria.Main(args);
+//CalculadoraDeImpostos.Main(args);
+//ConvertorDeTemperatura.Main(args);
+//CategoriaFilme.Main(args);
+CalculadoraDeFatorial.Main(args);
